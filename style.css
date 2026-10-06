@@ -33,7 +33,7 @@ header nav a {
 header nav a:hover {
     text-decoration: underline;
     color: #8C4E32;
-    padding-left: 5px;
+    
 }
 
 main {
@@ -44,7 +44,7 @@ main {
 
 /* Trang Chủ */
 .home {
-    background: linear-gradient(rgba(156, 159, 159, 0.7), rgba(156, 159, 159, 0.7)), url(banner.jpg) center;
+    background: linear-gradient(rgba(156, 159, 159, 0.7), rgba(156, 159, 159, 0.7)), url(image/banner.jpg) center;
     text-align: center;
     color: white;
     padding: 100px 120px;
